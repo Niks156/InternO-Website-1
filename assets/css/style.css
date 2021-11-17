@@ -2803,7 +2803,7 @@ hr {
 }
 @media (max-width: 575px) {
     .footer-area .footer-top .footer-top-cap span a {
-        font-size: 27px;
+        font-size: 17px;
     }
 }
 @media only screen and (min-width: 576px) and (max-width: 767px) {
